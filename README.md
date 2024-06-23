@@ -45,8 +45,8 @@ Supported on desktop, mobile and web!
 
 | Theme                                          | Download                                        | User Manual                                                          |
 | ---------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
-| ![Dracula Basic](res/images/minimal-cover.png) | [Basic](themes/Dracula/Basic.apkg)   | [Download](res/document/Document.pdf)                                      |
-| ![Dracula Cloze](res/images/nord-cover.png) | [Cloze](themes/Dracula/Cloze.apkg)          | [Download](res/document/Document.pdf)                    |
+| ![Dracula Basic](res/images/minimal-cover-1.png) | [Basic](themes/Dracula/Basic.apkg)   | [Download](res/document/Document.pdf)                                      |
+| ![Dracula Cloze](res/images/nord-cover-1.png) | [Cloze](themes/Dracula/Cloze.apkg)          | [Download](res/document/Document.pdf)                    |
 | ![Basic & Cloze](res/images/dracula-cover.png) | [Basic & Cloze](themes/Dracula/Dracula.apkg) | [Download](res/document/Document.pdf) |
 
 
