@@ -58,7 +58,7 @@ Supported on desktop, mobile and web!
 
 - Click on link in the above table to download the deck with the specific theme.
 
-- Download [`./themes/Dracula/Dracula.apkg`](Dracula.apkg) to install all the themes in one master deck.
+- Download [`themes/Dracula/Dracula.apkg`](Dracula.apkg) to install all the themes in one master deck.
 
 ### Usage
 
