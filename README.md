@@ -1,6 +1,6 @@
-# Prettify
+# Dracula
 
-Collection of customizable Anki flashcard templates with modern and clean themes.
+Collection of modern and clean Anki flashcard templates, fully customizable to suit your needs.
 
 ![Prettify Cover](res/images/prettify-cover.png)
 
@@ -13,8 +13,6 @@ Collection of customizable Anki flashcard templates with modern and clean themes
 - [Add-on support](#add-on-support)
 - [Compatibility](#compatibility)
 - [Requirements](#requirements)
-- [Plans for future](#plans-for-future)
-- [Support development](#support-development)
 
 ## About
 
@@ -27,7 +25,6 @@ Meticulously designed from the ground up, this template aims to make flashcards 
 Supported on desktop, mobile and web!
 
 ![Responsive design](res/images/prettify-responsive.png)
-
 
 ### Tags for quick context
 
@@ -49,7 +46,7 @@ Supported on desktop, mobile and web!
 | Theme                                          | Download                                        | User Manual                                                          |
 | ---------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
 | ![Dracula Basic](res/images/minimal-cover.png) | [Basic](themes/Dracula/Basic.apkg)   | [Download](res/document/Document.pdf)                                      |
-| ![Dracula Cloze](res/images/minimal-cover.png) | [Cloze](themes/Dracula/Cloze.apkg)          | [Download](res/document/Document.pdf)                    |
+| ![Dracula Cloze](res/images/nord-cover.png) | [Cloze](themes/Dracula/Cloze.apkg)          | [Download](res/document/Document.pdf)                    |
 | ![Basic & Cloze](res/images/dracula-cover.png) | [Basic & Cloze](themes/Dracula/Dracula.apkg) | [Download](res/document/Document.pdf) |
 
 
@@ -61,9 +58,7 @@ Supported on desktop, mobile and web!
 
 - Click on link in the above table to download the deck with the specific theme.
 
-- Download [`prettify.apkg`](prettify.apkg) to install all the themes in one master deck.
-
-- To download decks for specific note type, choose the note type folder from the `notetypes` directory under the theme directory. (`themes/THEME/notetypes/NOTETYPE`)
+- Download [`./themes/Dracula/Dracula.apkg`](Dracula.apkg) to install all the themes in one master deck.
 
 ### Usage
 
